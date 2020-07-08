@@ -1,0 +1,13 @@
+@font-face {
+    src: url("Brusher.ttf");
+}
+
+.mainTitle {
+    -fx-font-family: "Brusher";
+    -fx-font-size: 96px;
+}
+
+.CurriculumTitle {
+    -fx-font-family: "Brusher";
+    -fx-font-size: 52px;
+}
